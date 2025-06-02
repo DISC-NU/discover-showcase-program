@@ -1,5 +1,6 @@
 import DiscExecMembers from "./components/disc-exec-section";
 import DiscoverProgramParticipants from "./components/discover-program-participants";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -31,10 +32,11 @@ function App() {
           <h2 className="mt-4 mb-8 text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#FBF7F5]">
             Showcase 2025
           </h2>
-          <DiscExecMembers />
           <DiscoverProgramParticipants />
+          <DiscExecMembers />
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
