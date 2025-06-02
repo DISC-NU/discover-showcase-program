@@ -43,17 +43,17 @@ export const discoverProgramClients = [
     image_url:
       "https://images.squarespace-cdn.com/content/623f9fd83fd2075fe4f672b0/1654144845808-NO9HONPO1L8VONL34KU5/SC+logo.jpeg?content-type=image%2Fjpeg",
   },
-  {
-    title: "Sokana Collective - CRM Platform",
-    mission:
-      "Sokana Collective provides access to culturally competent training, education, and support for doulas and families.",
-    description:
-      "Replace existing CRM system with a new system that allows patients to have an account to view their balance, update payment information and see information about the doula they are assigned to and doulas can write notes for patients to see.",
-    tech: "Project may require additional safeguards to protect electronic protected health information and utilize Quickbooks integration.",
-    link: "https://www.sokanacollective.com/",
-    image_url:
-      "https://images.squarespace-cdn.com/content/623f9fd83fd2075fe4f672b0/1654144845808-NO9HONPO1L8VONL34KU5/SC+logo.jpeg?content-type=image%2Fjpeg",
-  },
+  // {
+  //   title: "Sokana Collective - CRM Platform",
+  //   mission:
+  //     "Sokana Collective provides access to culturally competent training, education, and support for doulas and families.",
+  //   description:
+  //     "Replace existing CRM system with a new system that allows patients to have an account to view their balance, update payment information and see information about the doula they are assigned to and doulas can write notes for patients to see.",
+  //   tech: "Project may require additional safeguards to protect electronic protected health information and utilize Quickbooks integration.",
+  //   link: "https://www.sokanacollective.com/",
+  //   image_url:
+  //     "https://images.squarespace-cdn.com/content/623f9fd83fd2075fe4f672b0/1654144845808-NO9HONPO1L8VONL34KU5/SC+logo.jpeg?content-type=image%2Fjpeg",
+  // },
   {
     title: "North Shore Senior Center - CRM Platform",
     mission:
@@ -63,7 +63,7 @@ export const discoverProgramClients = [
     tech: "Project may require additional safeguards to protect electronic protected health information.",
     link: "https://www.nssc.org/",
     image_url:
-      "https://www.nssc.org/assets/images/custom/footer_logo_standard.png",
+      "https://cdn.greatnonprofits.org/images/logos/NSSCLogo2013Color.jpg",
   },
   {
     title: "Institute for Therapy through the Arts - Inventory System",
@@ -74,7 +74,7 @@ export const discoverProgramClients = [
     tech: "N/A",
     link: "https://itachicago.org/blog/",
     image_url:
-      "https://itachicago.org/wp-content/uploads/2015/07/ita_logo-e1444063584889.png",
+      "https://images.squarespace-cdn.com/content/v1/64e3bbb39024211b8a691916/5e3a2c63-f8a3-414b-8fa1-9552387a4e64/image001.jpg",
   },
   {
     title: "Avery's Helpful Hair Kit - Scheduling Platform",

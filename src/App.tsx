@@ -1,6 +1,7 @@
 import DiscExecMembers from "./components/disc-exec-section";
 import DiscoverProgramParticipants from "./components/discover-program-participants";
 import Footer from "./components/footer";
+import ClientsCarousel from "./components/clients-carousel";
 
 function App() {
   return (
@@ -8,26 +9,23 @@ function App() {
       <h1 className="mt-4 mb-4 text-xl sm:text-2xl lg:text-3xl font-semibold text-[#121612]">
         Develop &amp; Innovate for Social Change
       </h1>
+
       <div className="w-full flex justify-center px-4 sm:px-6 lg:px-8">
         <div
           className="
+            relative
             w-full
             max-w-[90rem]
             bg-[#121612]
             flex flex-col items-center
-
-            /* Top corner rounding */
-            rounded-t-[4rem]       /* mobile */
-            sm:rounded-t-[6rem]    /* ≥640px */
-            md:rounded-t-[8rem]    /* ≥768px */
-            lg:rounded-t-[10rem]   /* ≥1024px */
-
-            /* Bottom corner rounding (NEW!!) */
-            rounded-b-[4rem]        /* mobile */
-            sm:rounded-b-[6rem]     /* ≥640px */
-            md:rounded-b-[8rem]     /* ≥768px */
-            lg:rounded-b-[10rem]    /* ≥1024px */
-
+            rounded-t-[4rem]
+            sm:rounded-t-[6rem]
+            md:rounded-t-[8rem]
+            lg:rounded-t-[10rem]
+            rounded-b-[4rem]
+            sm:rounded-b-[6rem]
+            md:rounded-b-[8rem]
+            lg:rounded-b-[10rem]
             pt-8
             pb-12
             px-6
@@ -40,10 +38,16 @@ function App() {
           <h2 className="mt-4 mb-8 text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#FBF7F5]">
             Showcase 2025
           </h2>
-          <DiscoverProgramParticipants />
-          <DiscExecMembers />
+          <div className="-mx-4 sm:-mx-6 lg:-mx-8">
+            <ClientsCarousel />
+          </div>
+          <div className="w-full mt-56 sm:mt-64 md:mt-72 lg:mt-80 space-y-12 flex flex-col items-center">
+            <DiscoverProgramParticipants />
+            <DiscExecMembers />
+          </div>
         </div>
       </div>
+
       <Footer />
     </div>
   );
