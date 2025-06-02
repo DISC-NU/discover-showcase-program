@@ -1,6 +1,6 @@
 export default function Introduction() {
   return (
-    <section className="w-full max-w-4xl rounded-2xl p-8 my-16 bg-[#121612] text-[#DED4CE]">
+    <section className="w-full max-w-4xl rounded-2xl p-8 my-2 bg-[#121612] text-[#DED4CE]">
       <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-center">
         Welcome to DISC’s Discover Program Showcase
       </h2>
