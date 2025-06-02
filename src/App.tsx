@@ -3,6 +3,8 @@ import DiscoverProgramParticipants from "./components/discover-program-participa
 import Footer from "./components/footer";
 import ClientsCarousel from "./components/clients-carousel";
 import LetterFromExec from "./components/disc-exec-letter";
+import ProgramSchedule from "./components/program-schedule";
+import Introduction from "./components/introduction";
 
 function App() {
   return (
@@ -33,16 +35,18 @@ function App() {
           "
           style={{ zIndex: 5 }}
         >
-          <h2 className="text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#FBF7F5]">
+          <h2 className="text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#DED4CE]">
             Discover Program
           </h2>
-          <h2 className="mt-4 mb-8 text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#FBF7F5]">
+          <h2 className="mt-4 mb-8 text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#DED4CE]">
             Showcase 2025
           </h2>
+          <Introduction />
           <div className="-mx-4 sm:-mx-6 lg:-mx-8">
             <ClientsCarousel />
           </div>
           <div className="w-full mt-12 flex flex-col items-center">
+            <ProgramSchedule />
             <LetterFromExec />
             <DiscoverProgramParticipants />
             <DiscExecMembers />

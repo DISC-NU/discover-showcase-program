@@ -1,6 +1,6 @@
 export default function LetterFromExec() {
   return (
-    <section className="w-full max-w-4xl rounded-2xl p-8 my-16 text-[#FBF7F5]">
+    <section className="w-full max-w-4xl rounded-2xl p-8 my-16 text-[#DED4CE]">
       <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-center">
         Letter from the Executive Board
       </h2>

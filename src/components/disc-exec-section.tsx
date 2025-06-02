@@ -6,7 +6,7 @@ export default function DiscExecMembers() {
   return (
     <div className="w-full max-w-6xl space-y-12 mb-12">
       <div className="w-full space-y-6">
-        <h3 className="text-2xl font-semibold text-[#FBF7F5] text-center">
+        <h3 className="text-2xl font-semibold text-[#DED4CE] text-center">
           DISC Executive Board Team 2024 - 2025
         </h3>
         <div className="flex flex-wrap justify-center gap-4">
@@ -72,7 +72,7 @@ export default function DiscExecMembers() {
         </div>
       </div>
       <div className="w-full space-y-6">
-        <h3 className="text-2xl font-semibold text-[#FBF7F5] text-center">
+        <h3 className="text-2xl font-semibold text-[#DED4CE] text-center">
           DISC Executive Board Team 2025 - 2026
         </h3>
         <div className="flex flex-wrap justify-center gap-4">

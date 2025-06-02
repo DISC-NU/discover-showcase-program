@@ -6,7 +6,7 @@ export default function DiscoverProgramParticipants() {
   const yearOrder = ["2025", "2026", "2027", "2028"];
   return (
     <div className="mb-48">
-      <h2 className="text-lg sm:text-xl lg:text-3xl font-semibold text-[#FBF7F5] text-center mb-12">
+      <h2 className="text-lg sm:text-xl lg:text-3xl font-semibold text-[#DED4CE] text-center mb-12">
         Discover Program 2025 Participants
       </h2>
       <div className="w-full max-w-4xl space-y-12">
@@ -18,7 +18,7 @@ export default function DiscoverProgramParticipants() {
 
           return (
             <div key={year} className="w-full space-y-8">
-              <h3 className="text-2xl font-semibold mb-2 text-[#FBF7F5] text-center">
+              <h3 className="text-2xl font-semibold mb-2 text-[#DED4CE] text-center">
                 {yearLabel}
               </h3>
 
