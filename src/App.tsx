@@ -2,6 +2,7 @@ import DiscExecMembers from "./components/disc-exec-section";
 import DiscoverProgramParticipants from "./components/discover-program-participants";
 import Footer from "./components/footer";
 import ClientsCarousel from "./components/clients-carousel";
+import LetterFromExec from "./components/disc-exec-letter";
 
 function App() {
   return (
@@ -41,7 +42,8 @@ function App() {
           <div className="-mx-4 sm:-mx-6 lg:-mx-8">
             <ClientsCarousel />
           </div>
-          <div className="w-full mt-56 sm:mt-64 md:mt-72 lg:mt-80 space-y-12 flex flex-col items-center">
+          <div className="w-full mt-12 flex flex-col items-center">
+            <LetterFromExec />
             <DiscoverProgramParticipants />
             <DiscExecMembers />
           </div>
