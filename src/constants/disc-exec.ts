@@ -18,7 +18,7 @@ export const teamMembers: TeamMember[] = [
     name: "Joanna Soltys",
     grade: "Senior",
     background: "Computer Science",
-    image: "/joanna.JPEG",
+    image: "people/joanna.JPEG",
     social: {
       linkedin: "https://www.linkedin.com/in/joanna-soltys/",
       instagram: "https://www.instagram.com/jothesmolbean/",
@@ -30,7 +30,7 @@ export const teamMembers: TeamMember[] = [
     name: "Aanand Patel",
     grade: "Senior",
     background: "Computer Science",
-    image: "/annand.jpg",
+    image: "people/annand.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/aanand-patel1/",
       instagram: "https://www.instagram.com/aanandpatel123/",
@@ -42,7 +42,7 @@ export const teamMembers: TeamMember[] = [
     name: "Paula Fregene",
     grade: "Junior",
     background: "Computer Science",
-    image: "/paula.jpg",
+    image: "people/paula.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/paulafregene/",
       instagram: "https://www.instagram.com/iam_paulaaaa/",
@@ -54,7 +54,7 @@ export const teamMembers: TeamMember[] = [
     name: "Yong-yu Huang",
     grade: "Junior",
     background: "Computer Science, English",
-    image: "/yong-yu.JPEG",
+    image: "people/yong-yu.JPEG",
     social: {
       linkedin: "https://www.linkedin.com/in/yong-yuhuang/",
       instagram: "https://www.instagram.com/yongs.h/",
@@ -66,7 +66,7 @@ export const teamMembers: TeamMember[] = [
     name: "Ejean Kuo",
     grade: "Junior",
     background: "Computer Science, English",
-    image: "/ejean.jpeg",
+    image: "people/ejean.jpeg",
     social: {
       linkedin: "https://www.linkedin.com/in/ejeankuo/",
       instagram: "https://www.instagram.com/ejeankuo/",
@@ -78,7 +78,7 @@ export const teamMembers: TeamMember[] = [
     name: "Jazlyn Ho",
     grade: "Sophomore",
     background: "Computer Science, Viola",
-    image: "/jazlyn.jpg",
+    image: "people/jazlyn.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/",
       instagram: "https://www.instagram.com/jazlynh.o/",
@@ -90,7 +90,7 @@ export const teamMembers: TeamMember[] = [
     name: "Vihaan Shah",
     grade: "Senior",
     background: "Computer Science",
-    image: "/vihaan.jpg",
+    image: "people/vihaan.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/shah-vihaan/",
       instagram: "https://www.instagram.com/vihaanshah26/",
@@ -102,7 +102,7 @@ export const teamMembers: TeamMember[] = [
     name: "Brock Brown",
     grade: "Junior",
     background: "Computer Science",
-    image: "/brock.jpg",
+    image: "people/brock.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/brock-brown-058216221/",
       instagram: "https://www.instagram.com/bbrockbrown/",
@@ -114,7 +114,7 @@ export const teamMembers: TeamMember[] = [
     name: "Christian Lee",
     grade: "Junior",
     background: "Computer Science",
-    image: "/christian.JPG",
+    image: "people/christian.JPG",
     social: {
       linkedin: "https://www.linkedin.com/in/christian-lee-b429032a9/",
       instagram: "https://www.instagram.com/chrinatto/",
@@ -129,7 +129,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Rachel Yao",
     grade: "Senior",
     background: "Computer Science",
-    image: "/rachel.JPG",
+    image: "people/rachel.JPG",
     social: {
       linkedin: "https://www.linkedin.com/in/rachellyao/",
       instagram: "https://www.instagram.com/rachellyao/",
@@ -141,7 +141,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Blake Hu",
     grade: "Junior",
     background: "Computer Science",
-    image: "/blake.jpg",
+    image: "people/blake.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/blakehy/",
       instagram: "https://www.instagram.com/blakey.hu/",
@@ -153,7 +153,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Joanna Soltys",
     grade: "Junior",
     background: "Computer Science",
-    image: "/joanna.JPEG",
+    image: "people/joanna.JPEG",
     social: {
       linkedin: "https://www.linkedin.com/in/joanna-soltys/",
       instagram: "https://www.instagram.com/jothesmolbean/",
@@ -165,7 +165,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Jacky Zhang",
     grade: "Senior",
     background: "Computer Science, Economics",
-    image: "/jacky.jpeg",
+    image: "people/jacky.jpeg",
     social: {
       linkedin: "https://www.linkedin.com/in/jackyz21/",
       instagram: "https://www.instagram.com/jackyzhang1219/",
@@ -177,7 +177,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Amy Liao",
     grade: "Senior",
     background: "Computer Science",
-    image: "/amy.jpg",
+    image: "people/amy.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/amyzliao/",
       instagram: "https://www.instagram.com/ammmy_liao/",
@@ -189,7 +189,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Ethan Pineda",
     grade: "Senior",
     background: "Computer Science, Latinx Studies",
-    image: "/ethan2.jpeg",
+    image: "people/ethan.jpeg",
     social: {
       linkedin: "https://www.linkedin.com/in/ethanpineda/",
       instagram: "https://www.instagram.com/ethanpinedaa/",
@@ -201,7 +201,7 @@ export const outgoingTeamMbers: TeamMember[] = [
     name: "Aanand Patel",
     grade: "Junior",
     background: "Computer Science",
-    image: "/annand.jpg",
+    image: "people/annand.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/aanand-patel1/",
       instagram: "https://www.instagram.com/aanandpatel123/",
