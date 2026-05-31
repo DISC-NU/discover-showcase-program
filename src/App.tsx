@@ -39,7 +39,7 @@ function App() {
             Discover Program
           </h2>
           <h2 className="mt-4 mb-8 text-3xl sm:text-4xl lg:text-6xl font-semibold text-[#DED4CE]">
-            Showcase 2025
+            Showcase 2026
           </h2>
           <Introduction />
           <div className="-mx-4 sm:-mx-6 lg:-mx-8">

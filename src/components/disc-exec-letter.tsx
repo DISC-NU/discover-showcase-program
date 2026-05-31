@@ -8,10 +8,10 @@ export default function LetterFromExec() {
         Dear DISC Community,
       </p>
       <p className="text-sm sm:text-base leading-relaxed mb-4">
-        We’re thrilled to welcome you to the 2025 Discover Program Showcase.
+        We’re so thrilled to welcome you to the 2026 Discover Program Showcase.
         Over the past two quarters, our teams of student developers have poured
-        their hearts and minds into building real-world solutions for local
-        nonprofits. From ideation to deployment, every line of code reflects
+        their hearts into building real-world solutions for local
+        nonprofits here in Chicago. From ideation to deployment, every line of code reflects
         hours of collaboration, late-night debugging sessions, and genuine care
         for our clients’ missions.
       </p>
@@ -20,7 +20,7 @@ export default function LetterFromExec() {
         coordination, and evolving client requirements—but they rose to the
         occasion. Each team member learned not only technical skills (React,
         Node, PostgreSQL, and more) but also how to communicate and colloborate
-        across different schedules , manage scope creep, and lean on one another
+        across different schedules, manage scope creep, and lean on one another
         when the going got tough.
       </p>
       <p className="text-sm sm:text-base leading-relaxed mb-4">

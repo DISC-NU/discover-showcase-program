@@ -8,25 +8,25 @@ export default function ProgramSchedule() {
       <ul className="space-y-4">
         <li className="flex items-start">
           <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            7:00 PM
+            6:00 PM
           </span>
           <span className="ml-4">Introduce DISC &amp; DISC Leadership</span>
         </li>
         <li className="flex items-start">
           <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            7:10 PM
+            6:10 PM
           </span>
           <span className="ml-4">Speech by Joanna Soltys</span>
         </li>
         <li className="flex items-start">
           <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            7:20 PM
+            6:20 PM
           </span>
-          <span className="ml-4">Speech by Blake Hu</span>
+          <span className="ml-4">Speech by Paula Fregene</span>
         </li>
         <li className="flex items-start">
           <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            7:30–9:00 PM
+            6:30–8:00 PM
           </span>
           <span className="ml-4">
             Project Presentations (
@@ -35,14 +35,14 @@ export default function ProgramSchedule() {
         </li>
         <li className="flex items-start">
           <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            9:00 PM
+            8:00 PM
           </span>
           <span className="ml-4">Closing Remarks</span>
         </li>
       </ul>
 
       <p className="mt-6 text-sm text-center">
-        <span className="font-semibold">Location:</span> The Garage at
+        <span className="font-semibold">Location:</span> Tech M164 at
         Northwestern University
       </p>
     </section>

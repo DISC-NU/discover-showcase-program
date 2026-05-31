@@ -7,7 +7,7 @@ export default function DiscExecMembers() {
     <div className="w-full max-w-6xl space-y-12 mb-12">
       <div className="w-full space-y-6">
         <h3 className="text-2xl font-semibold text-[#DED4CE] text-center">
-          DISC Executive Board Team 2024 - 2025
+          DISC Executive Board Team 2025 - 2026
         </h3>
         <div className="flex flex-wrap justify-center gap-4">
           {outgoingTeamMbers.map((member: TeamMember) => (
@@ -73,7 +73,7 @@ export default function DiscExecMembers() {
       </div>
       <div className="w-full space-y-6">
         <h3 className="text-2xl font-semibold text-[#DED4CE] text-center">
-          DISC Executive Board Team 2025 - 2026
+          DISC Executive Board Team 2026 - 2027
         </h3>
         <div className="flex flex-wrap justify-center gap-4">
           {teamMembers.map((member: TeamMember) => (
