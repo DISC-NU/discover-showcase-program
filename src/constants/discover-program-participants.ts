@@ -11,6 +11,11 @@ export const STUDENTS_BY_YEAR: Record<string, Person[]> = {
       lastName: "Wynn",
       email: "aliviawynn2025@u.northwestern.edu",
     },
+    {
+      firstName: "Jovy",
+      lastName: "Zhou",
+      email: "jovyzhou2026@u.northwestern.edu",
+    },
   ],
   "2027": [
     {
