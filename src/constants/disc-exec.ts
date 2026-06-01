@@ -163,7 +163,7 @@ export const teamMembers: TeamMember[] = [
   {
     position: "VP Finance",
     name: "Ejean Kuo",
-    grade: "Junior",
+    grade: "Senior",
     background: "Computer Science, English",
     image: "people/ejean.jpeg",
     social: {
@@ -175,7 +175,7 @@ export const teamMembers: TeamMember[] = [
   {
     position: "VP Marketing",
     name: "Jazlyn Ho",
-    grade: "Sophomore",
+    grade: "Junior",
     background: "Computer Science, Viola",
     image: "people/jazlyn.jpg",
     social: {
