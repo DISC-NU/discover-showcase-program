@@ -14,7 +14,7 @@ export default function Introduction() {
       <p className="text-sm sm:text-base leading-relaxed mb-4">
         Tonight, you will first hear an overview of DISC’s mission and meet our
         leadership team. Next, we have keynote speeches from Joanna Soltys and
-        Blake Hu. Following those speeches, our dedicated teams will present the
+        Paula Fregene. Following those speeches, our dedicated teams will present the
         projects they’ve built for various community clients. Finally, we’ll
         close with some concluding remarks and discuss next steps for our DISC
         community.

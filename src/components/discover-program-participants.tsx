@@ -3,11 +3,11 @@ import type { Person } from "../constants/discover-program-participants";
 import { getYearLabel } from "../utils/get-grad-year";
 
 export default function DiscoverProgramParticipants() {
-  const yearOrder = ["2025", "2026", "2027", "2028"];
+  const yearOrder = ["2026", "2027", "2028", "2029"];
   return (
     <div className="mb-48">
       <h2 className="text-lg sm:text-xl lg:text-3xl font-semibold text-[#DED4CE] text-center mb-12">
-        Discover Program 2025 Participants
+        Discover Program 2026 Participants
       </h2>
       <div className="w-full max-w-4xl space-y-12">
         {yearOrder.map((year) => {
