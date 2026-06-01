@@ -22,11 +22,11 @@ export default function ClientsCarousel() {
               flex flex-col
             "
           >
-            <div className="w-full h-44 sm:h-52 md:h-60 lg:h-72 bg-gray-200">
+            <div className="flex items-center justify-center w-full h-44 sm:h-52 md:h-60 lg:h-72 bg-white">
               <img
                 src={client.image_url}
                 alt={client.title}
-                className="w-full h-full object-cover"
+                className=" object-cover"
               />
             </div>
             <div className="w-full bg-[#DED4CE] h-12 flex items-center justify-center px-2">
@@ -54,11 +54,11 @@ export default function ClientsCarousel() {
               flex flex-col
             "
           >
-            <div className="w-full h-44 sm:h-52 md:h-60 lg:h-72 bg-gray-200">
+            <div className="flex items-center justify-center w-full h-44 sm:h-52 md:h-60 lg:h-72 bg-white">
               <img
                 src={client.image_url}
                 alt={client.title}
-                className="w-full h-full object-cover"
+                className="object-cover"
               />
             </div>
             <div className="w-full bg-[#DED4CE] h-12 flex items-center justify-center px-2">

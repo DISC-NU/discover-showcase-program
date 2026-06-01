@@ -20,13 +20,7 @@ export default function ProgramSchedule() {
         </li>
         <li className="flex items-start">
           <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            6:20 PM
-          </span>
-          <span className="ml-4">Speech by Paula Fregene</span>
-        </li>
-        <li className="flex items-start">
-          <span className="w-32 flex-shrink-0 font-semibold whitespace-nowrap">
-            6:30–8:00 PM
+            6:20–8:00 PM
           </span>
           <span className="ml-4">
             Project Presentations (
